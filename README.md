@@ -99,4 +99,3 @@ While building this project, I practiced:
 
 Subrata Das  
 B.Tech CSE Student  
-Learning programming and building projects
